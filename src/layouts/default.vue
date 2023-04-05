@@ -1,5 +1,5 @@
 <template>
-  <aside class="fixed top-0 left-0 w-125 h-full bg-gray-900 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700" aria-label="Sidenav">
+  <aside class="fixed top-0 left-0 w-90 h-full bg-gray-900 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700" aria-label="Sidenav">
     <div class="text-h1 font-bold text-white font:30px py-5 px-3">
       LOGO
       <br>
