@@ -1,12 +1,12 @@
 <template>
   <aside class="fixed top-0 left-0 w-125 h-full bg-gray-900 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700" aria-label="Sidenav">
-    <div class="font-bold text-white font:30px py-8 px-3">
+    <div class="text-h1 font-bold text-white font:30px py-5 px-3">
       LOGO
       <br>
       ....
     </div>
     <div
-      class="text-white overflow-y-auto py-2 px-3 ">
+      class="text-white overflow-y-auto px-3 ">
       <ul class="space-y-2">
         <li>
           <a href="#"
@@ -140,8 +140,8 @@
           </a>
         </li>
       </ul>
-      <ul class="pt-5 mt-5 space-y-2 border-t border-gray-200 dark:border-gray-700">
-        label
+      <ul class="pt-5 mt-5 space-y-2 border-t border-gray-200  dark:border-gray-700">
+        labels
       </ul>
     </div>
 </aside></template>
