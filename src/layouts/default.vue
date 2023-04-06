@@ -26,6 +26,7 @@
           </a>
         </li>
         <li>
+         
           <a href="editroomPage"
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
@@ -42,7 +43,7 @@
           </a>
         </li>
         <li>
-          <a href="room"
+          <a href="index"
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
               class="w-10 h-6 text-gray-400 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
