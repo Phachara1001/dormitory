@@ -1,5 +1,6 @@
 <template>
-  <aside class="fixed top-0 left-0 w-90 h-full bg-gray-900 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700" aria-label="Sidenav">
+  <div class="mx-auto max-w-screen-xl px-4 lg:px-20">
+<aside class="fixed top-0 left-0 w-90 h-full bg-gray-900 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700" aria-label="Sidenav">
     <div class="text-h1 font-bold text-white font:30px py-5 px-3">
       LOGO
       <br>
@@ -9,7 +10,7 @@
       class="text-white overflow-y-auto px-3 ">
       <ul class="space-y-2">
         <li>
-          <a href="#"
+          <a href=""
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
             class="w-10 h-6 text-gray-400 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
@@ -25,7 +26,7 @@
           </a>
         </li>
         <li>
-          <a href="index"
+          <a href="editroomPage"
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
               class="w-10 h-6 text-gray-400 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
@@ -41,7 +42,7 @@
           </a>
         </li>
         <li>
-          <a href="#"
+          <a href="room"
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
               class="w-10 h-6 text-gray-400 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
@@ -54,7 +55,7 @@
           </a>
         </li>
         <li>
-          <a href="#"
+          <a href=""
             class="flex items-center p-2 text-base font-normal text-white rounded-lg hover:text-black hover:bg-gray-100 dark:hover:bg-gray-700 group">
             <svg aria-hidden="true"
               class="w-10 h-6 text-gray-400 transition duration-75 dark:text-gray-400 group-hover:text-gray-900 dark:group-hover:text-white"
@@ -144,4 +145,20 @@
         labels
       </ul>
     </div>
-</aside></template>
+</aside>
+  <div>
+    <main>
+      <slot></slot>
+    </main>
+  </div>
+</div>
+</template>
+
+<script setup lang="ts">
+import { onMounted } from 'vue'
+import { initFlowbite } from 'flowbite/lib/esm/components'
+// initialize components based on data attribute selectors
+onMounted(() => {
+  initFlowbite();
+})
+</script>
