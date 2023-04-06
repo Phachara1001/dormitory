@@ -67,7 +67,7 @@
         <h5 class="mr-3 font-semibold dark:text-white">ห้องพักทั้งหมด</h5>
       </div>
       <div class="flex items-center justify-center h-80 px-5 py-5">
-        <div class="grid grid-cols-3 md:grid-cols-4 gap-4 w-200">
+        <div class="grid grid-cols-3 md:grid-cols-4 gap-4 w-400">
           <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 101</h5>
             <button type="button" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-full text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">ห้องว่าง</button>
