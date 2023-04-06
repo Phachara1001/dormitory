@@ -1,3 +1,0 @@
-<template>
-  สวัสดีครับ
-</template>
