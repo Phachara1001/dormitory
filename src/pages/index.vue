@@ -68,27 +68,27 @@
       </div>
       <div class="flex items-center justify-center h-80 px-5 py-5">
         <div class="grid grid-cols-3 md:grid-cols-4 gap-4 w-400">
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 101</h5>
             <button type="button" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-full text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">ห้องว่าง</button>
           </a>
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 102</h5>
             <button type="button" class="text-white bg-green-700 hover:bg-green-800 focus:outline-none focus:ring-4 focus:ring-green-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-green-600 dark:hover:bg-green-700 dark:focus:ring-green-800">ชำระแล้ว</button>
           </a>
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 103</h5>
             <button type="button" class="text-white bg-purple-700 hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mb-2 dark:bg-purple-600 dark:hover:bg-purple-700 dark:focus:ring-purple-900">รอย้ายออก</button>
           </a>
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 104</h5>
             <button type="button" class="text-white bg-red-700 hover:bg-red-800 focus:outline-none focus:ring-4 focus:ring-red-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-red-600 dark:hover:bg-red-700 dark:focus:ring-red-900">ค้างชำระ</button>
           </a>
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 105</h5>
             <button type="button" class="text-gray-900 bg-white border border-gray-300 focus:outline-none hover:bg-gray-100 focus:ring-4 focus:ring-gray-200 font-medium rounded-full text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700">ห้องว่าง</button>
           </a>
-          <a href="#" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
+          <a href="roomdetail" class="block w-full rounded-lg bg-white border border-gray-200 p-6">
             <h5 class="mb-2  font-bold tracking-tight text-gray-900 dark:text-white">ห้อง : 106</h5>
             <button type="button" class="text-white bg-yellow-400 hover:bg-yellow-500 focus:outline-none focus:ring-4 focus:ring-yellow-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:focus:ring-yellow-900">จองแล้ว</button>
           </a>
