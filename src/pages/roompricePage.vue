@@ -1,4 +1,5 @@
 <template>
+    
         <div
             class="flex-row items-center justify-start bg-purple-400 text-xl p-4 space-y-3 sm:flex sm:space-y-0 sm:space-x-4">
            ตั้งค่าห้องพัก
