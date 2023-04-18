@@ -1,8 +1,4 @@
 <template>
-  
-
- 
-
 <!-- Main modal -->
 <div>
     <div class="relative p-4 w-full max-w-2xl h-full md:h-auto">
